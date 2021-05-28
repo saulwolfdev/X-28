@@ -25,16 +25,14 @@
     </mj-style>
 
   </mj-head>
-  <mj-body background-color="#E7E7E7" width="600px">
-    <mj-section full-width="full-width" background-color="#034EA2" padding-bottom="0">
+  <mj-body background-color="#f9f9f9" width="600px">
+    <mj-section full-width="full-width" background-color="#1f2e78" padding-bottom="0">
       <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/43302778/119940797-197b1c00-bf66-11eb-934d-ca95f3d30bf3.png" width="600px" alt="" padding="0" href="https://x-28.com/" />
+        <mj-image src="https://user-images.githubusercontent.com/43302778/119941855-84792280-bf67-11eb-9047-f22886545578.png" width="600px" alt="" padding="0" href="https://x-28.com/" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#1f2e78">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/43302778/119940921-46c7ca00-bf66-11eb-80bf-fbc3e69576d8.png" width="600px" alt="" padding="0" href=https://x-28.com/" />
-      </mj-column>
+    <mj-section background-color="#034EA2">
+
     </mj-section>
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
