@@ -28,12 +28,12 @@
   <mj-body background-color="#E7E7E7" width="600px">
     <mj-section full-width="full-width" background-color="#034EA2" padding-bottom="0">
       <mj-column width="100%">
-        <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-top.png" width="600px" alt="" padding="0" href="https://google.com" />
+        <mj-image src="https://user-images.githubusercontent.com/43302778/119940797-197b1c00-bf66-11eb-934d-ca95f3d30bf3.png" width="600px" alt="" padding="0" href="https://x-28.com/" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#1f2e78">
       <mj-column width="100%">
-        <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-bottom.png" width="600px" alt="" padding="0" href="https://google.com" />
+        <mj-image src="https://user-images.githubusercontent.com/43302778/119940921-46c7ca00-bf66-11eb-80bf-fbc3e69576d8.png" width="600px" alt="" padding="0" href=https://x-28.com/" />
       </mj-column>
     </mj-section>
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
