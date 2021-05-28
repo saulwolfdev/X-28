@@ -1,0 +1,114 @@
+<mjml>
+  <mj-head>
+    <mj-title>Discount Light</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+      color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+      color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section full-width="full-width" background-color="#034EA2" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-top.png" width="600px" alt="" padding="0" href="https://google.com" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1f2e78">
+      <mj-column width="100%">
+        <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-bottom.png" width="600px" alt="" padding="0" href="https://google.com" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="24px">
+            Gracias por elegir vivir tranquilo con X-28 Alarmas
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Sabias que?
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            ¿Estás buscando vivir tranquilo?
+            ¡Descubrí el plan de monitoreo con cámaras indicado para vos!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            <ul>
+              <li style="padding-bottom: 20px"><strong>Visualización :</strong> Revia en vivo desde tu teléfono celular </li>
+              <li style="padding-bottom: 20px"><strong>Imagenes</strong> Imágenes en calidad Full HD</li>
+              <li><strong>Archivos:</strong> Mirá de forma simple el archivo de tus grabaciones</li>
+            </ul>
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+            Fabricamos y comercializamos alarmas vehiculares, sistemas de cámaras de seguridad y alarmas residenciales con y sin monitoreo en todo el país.
+          </mj-text>
+          <mj-button background-color="#034EA2" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+            Activa tu cuenta ahora
+          </mj-button>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align="center">
+            Por favor, confirmá tu correo electrónico haciendo click en el boton.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding="0 15px 0 15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px" padding-bottom="0" align="center">
+            Gracias!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" align="center">
+            Gracias por elegirnos
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" align="center">
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; X-28 Alarmas, ©2021 All rights reserved
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a class="footer-link" href="https://x-28.com/">website</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
