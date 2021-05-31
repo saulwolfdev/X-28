@@ -26,7 +26,7 @@
 
   </mj-head>
   <mj-body background-color="#f9f9f9" width="600px">
-      <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0px">
+      <mj-section full-width="full-width" background-color="#000170" padding-bottom="0px">
       <mj-column width="100%">
         <mj-image src="https://www.clarin.com/commons/bundles/clarinsite/images/header/ultimas-noticias-de-argentina-y-el-mundo-clarin.svg" alt="" align="center" width="150px"></mj-image>
         <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" 
