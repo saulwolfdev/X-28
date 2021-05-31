@@ -30,7 +30,7 @@
       <mj-column width="100%">
         <mj-image src="https://www.clarin.com/commons/bundles/clarinsite/images/header/ultimas-noticias-de-argentina-y-el-mundo-clarin.svg" alt="" align="center" width="150px"></mj-image>
         <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" 
-        font-size="16px" letter-spacing="1px" padding-top="30px">lilax
+        font-size="16px" letter-spacing="1px" padding-top="30px">clarin central
         </mj-text>
         <mj-text color="#0500ff" align="center" font-size="13px" 
         padding-top="0" font-weight="bold" text-transform="uppercase" 
@@ -47,29 +47,19 @@
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="100%">
           <mj-text color="#212b35" font-weight="bold" font-size="24px">
-            Gracias por registrarte con nosotros
+              Tu contraseña ha cambiado
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Importante:
-          </mj-text>
-          <mj-text color="#637381" font-size="16px">
-            Para continuar el alta del usuario es necesario que generar una 
-            contraseña haciendo click en el boton activar cuenta
-          </mj-text>
-                    <mj-text color="#637381" font-size="16px">
-          como primer paso vamos pedirte que generes una contraseña
+           Cambio
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-           Este link  tiene una validez de <strong>48hs</strong> de lo contrario
-           tendra que pedir un nuevo enlace
+          Te informamos que la contraseña de tu cuenta ha sido modificada.
           </mj-text>
-          <mj-button background-color="#0500ff" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
-            Activa cuenta
-          </mj-button>
-        </mj-column>
-        <mj-column width="100%">
-          <mj-text color="#637381" font-size="12px" align="center">
-            Por favor, confirmá tu correo electrónico haciendo click en el boton.
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+          Si fuiste vos, podés descartar tranquilamente este correo electrónico.
+          </mj-text>
+            <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+          Si no lo fuiste, comunicate con tu administrador.
           </mj-text>
         </mj-column>
       </mj-section>
