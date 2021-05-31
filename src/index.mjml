@@ -32,7 +32,6 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#034EA2">
-
     </mj-section>
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
@@ -67,7 +66,6 @@
           </mj-text>
         </mj-column>
       </mj-section>
-
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
         <mj-column width="100%">
           <mj-divider border-color="#DFE3E8" border-width="1px" />
@@ -86,6 +84,12 @@
           </mj-text>
         </mj-column>
       </mj-section>
+      
+                <mj-section background-color="#034EA2" padding-top="5px" padding-bottom="5px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/43302778/120234264-04d0a980-c22e-11eb-968d-61bf17a440e7.jpg" width="600px" alt="" padding="0" href="https://google.com" />
+      </mj-column>
+    </mj-section>
     </mj-wrapper>
 
     <mj-wrapper full-width="full-width">
