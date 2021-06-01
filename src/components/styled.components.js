@@ -8,11 +8,26 @@ export const ContainerHeader = styled.header`
     width: 100%;
     height: 180px;
     background-color: #034EA2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 `;
 export const ContainerHeaderImg = styled.img`
-    width: 10%;
+    width: 30%;
     margin: 0 auto;
     display: block;
+    @media screen and (min-width: 600px) {
+   width: 30%;
+}
+@media screen and (min-width: 900px) {
+   width: 10%;
+}
+@media screen and (min-width: 1200px) {
+   width: 10%;
+}
+@media screen and (min-width: 1600px) {
+   width: 10%;
+}
 `;
 export const ContainerMain = styled.section`
     width: 100%;
@@ -54,6 +69,10 @@ export const ContainerFooter = styled.footer`
     height: 60px;
     background-color: #034EA2;
     padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 `;
 export const ContainerFooterText = styled.p`
     color: #fff;
@@ -62,6 +81,21 @@ export const ContainerFooterText = styled.p`
 `;
 export const ContainerFooterImage = styled.img`
     display: block;
-    width: 5%;
+    width: 20%;
     margin: 0 auto;
+    margin-bottom: 8px;
+    margin: 0 auto;
+    display: block;
+    @media screen and (min-width: 600px) {
+        width: 20%;
+}
+@media screen and (min-width: 900px) {
+    width: 5%;
+}
+@media screen and (min-width: 1200px) {
+    width: 5%;
+}
+@media screen and (min-width: 1600px) {
+    width: 5%;
+}
 `;
