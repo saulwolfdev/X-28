@@ -10,7 +10,7 @@ export const ContainerMain = styled.main`
     display: flex;
     align-items: stretch;
     justify-content:stretch;
-    height: calc(100vh - 240px);
+    height: calc(100vh - 241px);
     `;
 
 export const ContainerHeader = styled.header`
