@@ -15,9 +15,11 @@ import {
 const App = () => {
   return (
     <Container>
+
       <ContainerHeader>
         <ContainerHeaderImg src="./LOGO-X28.png" />
       </ContainerHeader>
+
       <ContainerMain>
         <ContainerText>
       <ContainerTextTitle>
@@ -30,12 +32,14 @@ const App = () => {
       </ContainerTextDescription>
         </ContainerText>
       </ContainerMain>
+
       <ContainerFooter>
         <ContainerFooterImage src="./vivi.png" />
         <ContainerFooterText>
           &copy; X-28 Alarmas, ©2021 All rights reserved
         </ContainerFooterText>
       </ContainerFooter>
+
     </Container>
   );
 };

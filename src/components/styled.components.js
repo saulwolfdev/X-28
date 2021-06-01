@@ -1,48 +1,47 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const Container = styled.div`
     width: 100%;
     height: 100%;
 `;
-
-export const ContainerMain = styled.main`
-    width: 100%;
-    display: flex;
-    align-items: stretch;
-    justify-content:stretch;
-    height: calc(100vh - 241px);
-    `;
-
 export const ContainerHeader = styled.header`
     width: 100%;
-    height: 170px;
+    height: 180px;
     background-color: #034EA2;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 `;
 export const ContainerHeaderImg = styled.img`
     width: 10%;
     margin: 0 auto;
     display: block;
 `;
-export const ContainerText = styled.div`
-   width: 100%;
+export const ContainerMain = styled.section`
+    width: 100%;
     height: 100%;
+    min-height: calc(100vh - 260px);
     display: flex;
     align-items: center;
-    flex-direction: column;
+    `;
+export const ContainerText = styled.div`
+    width: 40%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    color: rgb(33, 43, 54);
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    background-image: none;
+    box-shadow: rgb(145 158 171 / 24%) 0px 0px 2px 0px, rgb(145 158 171 / 24%) 0px 16px 32px -4px;
+    border-radius: 16px;
+    position: relative;
+    z-index: 0;
+    padding: 80px;
+
 `;
 export const ContainerTextTitle = styled.h1`
     width: 100%;
     height: 100%;
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
     font-size: 37px;
-    margin: 0;
-    margin-bottom: 20px;
+    margin-bottom: 28px;
 `;
 export const ContainerTextDescription = styled.p`
     width: 100%;
@@ -52,18 +51,17 @@ export const ContainerTextDescription = styled.p`
 `;
 export const ContainerFooter = styled.footer`
     width: 100%;
+    height: 60px;
     background-color: #034EA2;
+    padding: 10px;
 `;
 export const ContainerFooterText = styled.p`
     color: #fff;
     font-size: 11px;
     text-align: center;
-    padding-bottom: 8px;
 `;
 export const ContainerFooterImage = styled.img`
     display: block;
-    width: 4%;
-    margin: auto auto;
-    padding-bottom: 8px;
-    padding: 8px 0;
+    width: 5%;
+    margin: 0 auto;
 `;
